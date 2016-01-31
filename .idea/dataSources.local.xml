@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - busdetector@localhost" uuid="2a6a2a81-1270-4832-bffd-90aaec7a3c2e">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>busdetector.*</schema-pattern>
+      <default-schemas>busdetector.*</default-schemas>
+    </data-source>
+  </component>
+</project>
